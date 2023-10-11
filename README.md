@@ -5,3 +5,14 @@ WeBrain EEGPipe is a companion piece of WeBrain (offline version of WeBrain pipe
 
 Using WeBrain or WeBrain EEGPipe, please cite:
 Dong, L., et al. (2021). "WeBrain: A web-based brainformatics platform of computational ecosystem for EEG big data analysis." Neuroimage 245: 118713.
+
+WeBrain EEGPipe (exe version) was developed in MATLAB 2018b for 64 bit Win 10 system. It was compiled using MATLAB runtime R2018a (9.4) for 64 bit Windows 10.
+
+Before using the EEGPipe toolkit, it is necessary to ensure that the MATLAB runtime R2018a (9.4) is installed correctly. For details of the installation of MATLAB software, please refer to:
+https://ww2.mathworks.cn/products/compiler/matlab-runtime.html
+Steps installation of EEGPipe is described in detail below:
+1)	Unzip the EEPipe package and place it in the toolbox directory you wanted.
+2)	Install MATLAB runtime R2018a (9.4) on your computer. If the runtime is installed, you can skip this step. The runtime is free on MATLAB website.
+3)	Double click the “WeBrain_EEGPipe.exe”, indicating that the EEGPipe is successfully installed. The first time to run “EEGPipe.exe” may need few mins.
+
+All copyright of the WeBrain EEGPipe reserved by the Key Laboratory for NeuroInformation of Ministry of Education, School of Life Science and Technology, University of Electronic Science and Technology of China. WeBrain EEGPipe is for non-commercial use only. It is free but not in the public domain.
